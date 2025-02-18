@@ -10,7 +10,7 @@ Stk. 3. Foreningsarbejdet skal give børn og unge mulighed for virksomhed og kam
 Stk. 4. Klubben er hjemmehørende i Odense Kommune.
 
 § 3 - Optagelse af medlemmer
-Stk. 1. Som medlem kan alle uberygtede personer optages.
+Stk. 1. Som medlem kan alle personer optages, medmindre personen er bortvist på lovlig grundlag.
 
 Stk. 2. Som aktiv eller passivt medlem kan optages enhver, der er fyldt 4 år, hvis trænerne skønner, det er forsvarligt
 
@@ -27,13 +27,17 @@ Stk. 6. Ethvert medlem har under udøvelsen af sporten pligt til at følge de af
 § 4 - Generalforsamling
 Stk. 1. Generalforsamlingen er klubbens højeste myndighed.
 
-Stk. 2. Ordinær generalforsamling afholdes 1 gang årligt, fortrinsvis i februar eller marts måned og indkaldes skriftligt med 1 måneds varsel, ved opslag i klubben og på Facebookgruppen Kodokan Odense DK.
+Stk. 2. Ordinær generalforsamling afholdes 1 gang årligt, fortrinsvis i februar eller marts måned og indkaldes skriftligt med 1 måneds varsel, ved opslag i klubben og Facebookgruppen Kodokan Odense DK.
 
 Generalforsamlingen kan afholdes virtuelt, såfremt fysisk fremmøde ikke er tilladt.
 
 Stk. 3. Adgang til generalforsamlingen har klubbens medlemmer, samt forældre til børn og unge op til 18 år der er medlemmer i klubben. Endvidere har andre tilknyttede personer adgang i det omfang bestyrelsen eller generalforsamlingen finder det fornødent.
 
-Stk. 4. Stemmeret har alle aktive medlemmer, der er fyldt 15 år, og som har været aktivt medlem af klubben i de sidste 3 måneder før generalforsamlingen, og som ikke er i kontingentrestance.
+Stk. 4. Stemmeret tilkommer alle aktive medlemmer, der på tidspunktet for generalforsamlingen er fyldt 15 år, har været aktivt medlem af klubben i de seneste 3 måneder, og som ikke er i kontingentrestance.
+
+Forældre til medlemmer under 15 år har stemmeret, forudsat at den pågældende barn har deltaget i mindst 50 % af klubbens træninger i den forudgående sæson efter indmeldelsen.
+
+Hvert medlem har maksimalt én stemme, uanset eventuelt dobbelt medlemskab som både aktivt medlem og forælder til et eller flere stemmeberettiget børn.
 
 Stemmeret kan kun udøves ved personligt fremmøde.
 
@@ -59,7 +63,7 @@ Stk. 6. Dagsorden for ordinær generalforsamling skal indeholde følgende punkte
 
 En lovligt indkaldt generalforsamling er altid beslutningsdygtig, undtaget er dog de i § 14 og § 15 nævnte beslutninger.
 
-Stk. 7. Indkomne forslag skal være formanden i hænde senest 14 dage før generalforsamlingen, og de indkomne forslag skal senes 7 dage inden generalforsamlingen offentliggøres og opslås skriftligt.
+Stk. 7. Indkomne forslag skal være formanden i hænde senest 14 dage før generalforsamlingen, og de indkomne forslag skal senest 7 dage inden generalforsamlingen offentliggøres og opslås skriftligt.
 
 Stk. 8. Generalforsamlingen fastsætter kontingent efter indstilling fra bestyrelsen.
 
@@ -105,13 +109,11 @@ for det, indkalde til bestyrelsesmøde straks.
 
 Stk. 6. Et bestyrelsesmøde er beslutningsdygtigt, når mindst 3 medlemmer af bestyrelsen er til stede, en suppleant kan indtræde som det 3. medlem og dermed muliggøre mødets afholdelse. Dog skal afgørelser, der berører klubbens økonomi altid forelægges kassereren til en konsekvensudtalelse, før en evt. beslutning står ved magt.
 
-Stk. 7 Slettet.
+Stk. 7. Spørgsmål afgøres ved almindelig stemmeflertal. I tilfælde af stemmelighed, er formandens stemme udslagsgivende.
 
-Stk. 8. Spørgsmål afgøres ved almindelig stemmeflertal. I tilfælde af stemmelighed, er formandens stemme udslagsgivende.
+Stk. 8. Beslutningsreferat fra B-møderne skal være tilgængelige på Facebookgruppen Kodokan Odense DK.
 
-Stk. 9. Beslutningsreferat fra B-møderne skal være tilgængelige på Facebookgruppen Kodokan Odense DK.
-
-Stk. 10. Den administrationsansvarlige for hjemmesiden sørger for at medlemmerne kan logge sig ind med de rettigheder de har brug for.
+Stk. 9. Den administrationsansvarlige for hjemmesiden sørger for at medlemmerne kan logge sig ind med de rettigheder de har brug for.
 
 § 9 - Bestyrelse - valg
 Stk. 1 Bestyrelsen består af 5 medlemmer og op til 2 suppleanter .
